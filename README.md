@@ -21,7 +21,7 @@
   - ссылку на коммит
 
 ## Как запустить проект:
-1. Скачать docker на сервер, если его нет. Инструкции: https://docs.docker.com/get-docker/
+1. Установить Docker, Docker Compose (для Windows - актуальный Docker Desktop).
 
 2. Клонировать репозиторий с проектом на свой компьютер:
    ```git clone git@github.com:Nina2301/taski-docker.git```
